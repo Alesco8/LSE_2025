@@ -27,7 +27,7 @@
 uint8_t state_pwm;
 uint8_t state_low;
 uint16_t count;
-// armando culiao
+
 void
 Timer0IntHandler(void)
 {
